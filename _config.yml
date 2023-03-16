@@ -12,22 +12,22 @@ paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          liuliu-Blog/
+    url:          /
     external:     false
   - name:         书籍
-    url:          liuliu-Blog//book
+    url:          /book
     external:     false
   - name:         旅游
-    url:          liuliu-Blog//road
+    url:          /road
     external:     false
   - name:         归档
-    url:          liuliu-Blog//archives
+    url:          /archives
     external:     false
   - name:         标签
-    url:          liuliu-Blog//tags
+    url:          /tags
     external:     false
   - name:         关于
-    url:          liuliu-Blog//about
+    url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
